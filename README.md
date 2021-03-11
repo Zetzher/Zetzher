@@ -10,7 +10,7 @@ I'm searching for a job as a front end or full stack developer.
 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="25" height="25" /> https://www.linkedin.com/in/zetzher/
  
- <img src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png" width="25" height="25" /> j.abasolo.agenjo@gmail.com
+ <img src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png" width="30" height="25" /> j.abasolo.agenjo@gmail.com
 
 ![Zetzhers's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zetzher&hide=contribs,prs)
 
