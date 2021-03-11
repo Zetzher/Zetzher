@@ -8,7 +8,7 @@ I'm searching for a job as a front end or full stack developer.
 #### If you want to contact me, you can find me on the net 🐺
 
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="50" height="50" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="50" height="50" /> https://www.linkedin.com/in/zetzher/
 
 ![Zetzhers's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zetzher&hide=contribs,prs)
 
