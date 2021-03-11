@@ -1,5 +1,5 @@
 # Welcome to my profile! ![logo svg](https://user-images.githubusercontent.com/59701771/110798201-36168a80-827a-11eb-8652-1aaf3773003f.png)
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="(https://user-images.githubusercontent.com/59701771/110798201-36168a80-827a-11eb-8652-1aaf3773003f.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 
 I'm a full stack developer, restless about learning new technologies and always being on the next level.
 
