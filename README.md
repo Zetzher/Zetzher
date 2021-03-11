@@ -1,7 +1,7 @@
 # Welcome to my profile! <img src="https://user-images.githubusercontent.com/59701771/110798201-36168a80-827a-11eb-8652-1aaf3773003f.png" width="80" height="100" />
 
 
-I'm a full stack developer, restless about learning new technologies and always being on the next level.
+I'm a full-stack developer, restless about learning new technologies and always being on the next level.
 
 I'm searching for a job as a front end or full stack developer.
 
