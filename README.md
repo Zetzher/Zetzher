@@ -5,7 +5,7 @@ I'm a full-stack developer, restless about learning new technologies and always 
 
 I'm searching for a job as a front end or full stack developer.
 
-#### If you want to contact me, you can find me on the net 🐺
+### If you want to contact me, you can find me on the net 🐺
 
 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="25" height="25" /> https://www.linkedin.com/in/zetzher/
