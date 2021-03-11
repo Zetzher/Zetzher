@@ -1,4 +1,4 @@
-# Welcome to my profile! <img src="https://user-images.githubusercontent.com/59701771/110798201-36168a80-827a-11eb-8652-1aaf3773003f.png" width="40" height="60" />
+# Welcome to my profile! <img src="https://user-images.githubusercontent.com/59701771/110798201-36168a80-827a-11eb-8652-1aaf3773003f.png" width="50" height="60" />
 
 
 I'm a full-stack developer, restless about learning new technologies and always being on the next level.
